@@ -3,8 +3,8 @@
     "invokeUrl": "https://5bltcq602h.execute-api.us-west-2.amazonaws.com/prod"
   },
   "cognito":{
-      "REGION":"us-east-1",
-      "USER_POOL_ID":"us-east-1_W9DEpFcwi",
-      "APP_CLIENT_ID":"2lr02d6gh0qg1lbmtflv40hppr"
+      "REGION":"", # Ex : us-east-1
+      "USER_POOL_ID":"", # Ex : us-east-1_W903d3cm1
+      "APP_CLIENT_ID":"" # Ex : 2lr02d6gh0qg1lbmtf
   }
 }
