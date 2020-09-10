@@ -1,2 +1,2 @@
-## Hexal Energy app
+## ReactJS-AWS_Amplify User Login & Registration App
 
